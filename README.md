@@ -54,7 +54,7 @@
 
 [instagram]: https://www.instagram.com/cgtyinyrt/
 [linkedin]: https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-inyurt-b24007211/
-[gmail]: cagatayinyurt@gmail.com
+[gmail]: mailto:cagatayinyurt@gmail.com
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
 [kotlin]: https://kotlinlang.org/

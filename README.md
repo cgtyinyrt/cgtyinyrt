@@ -2,7 +2,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" width="500" height="400" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="300" />
 
 
 - 🌱 I’m currently learning Android and Kotlin😂
@@ -46,9 +46,6 @@
 <br />
 <br />
 <br />
-
-![](https://komarev.com/ghpvc/?username=cgtyinyrt)
-
 <br />
 <br />
 

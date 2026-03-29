@@ -33,15 +33,6 @@
 <br />
 
 
-### GitHub Analytics 📊
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=cgtyinyrt&show_icons=true&theme=gradient)
-
-<br />
-
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cgtyinyrt&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
-
 <br />
 <br />
 <br />

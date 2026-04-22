@@ -4,13 +4,15 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="300" />
 
-
-- 🌱 Flutter / Android
+* 🚀 Junior Mobile Developer
+* 🌱 Currently learning **Flutter & Dart**
+* 💡 Interested in building cross-platform mobile apps
 
 <br />
 
 ### 📩 Connect with me:
 
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
@@ -20,30 +22,40 @@
 
 ### 🔧 Languages and Tools:
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />][kotlin]
-[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />][flutter]
+[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" />][dart]
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />][android]
+[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />][kotlin]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />][react]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />][csharp]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][github]
 
 <br />
 <br />
 <br />
 <br />
-<br />
 
+---
 
-<br />
-<br />
-<br />
-<br />
+### 📌 Featured Projects
+
+* 📱 Flutter Weather App (API integration)
+* ✅ ToDo App with Flutter
+* 💬 Chat App (Firebase) *(optional ekleyeceğiz)*
+
+---
+
 <br />
 
 [instagram]: https://www.instagram.com/cgtyinyrt/
 [linkedin]: https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-inyurt-b24007211/
 [gmail]: mailto:cagatayinyurt@gmail.com
+[flutter]: https://flutter.dev/
+[dart]: https://dart.dev/
+[react]: https://react.dev/
+[csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
 [kotlin]: https://kotlinlang.org/
 [github]: https://github.com/cgtyinyrt
-[xd]: https://www.adobe.com/products/xd.html

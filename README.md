@@ -42,7 +42,7 @@
 
 * 📱 Flutter Weather App (API integration)
 * ✅ ToDo App with Flutter
-* 💬 Chat App (Firebase) *(optional ekleyeceğiz)*
+* 💬 Chat App (Firebase)
 
 ---
 
